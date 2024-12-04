@@ -10,3 +10,36 @@ Tasks: Write a checklist of tasks to complete. When you are following this plan,
 Extra Resources: Try to include 1-2 extra resources in this section that can help you complete your task. You may just paste a link for each here.
 
 In total, your plan should contain 6 sections, each with the Goal (3 bullet points each), Tasks, and Extra Resources sections completed.
+
+Immersive and abstract visuals for a song. 
+
+Week 1 
+  Goal: Learn how to incorporate BPM into code. 
+  Tasks:
+  Resources:
+  
+Week 2: Apply this to an object, changing perhaps a simple setting to each beat. 
+  Goal:
+  Tasks:
+  Resources:
+  
+Week 3: 
+  Goal:
+  Tasks:
+  Resources:
+  
+Week 4:
+  Goal:
+  Tasks:
+  Resources:
+  
+Week 5:
+  Goal:
+  Tasks:
+  Resources:
+  
+Week 6:
+  Goal:
+  Tasks:
+  Resources:
+  
