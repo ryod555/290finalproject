@@ -11,35 +11,58 @@ Extra Resources: Try to include 1-2 extra resources in this section that can hel
 
 In total, your plan should contain 6 sections, each with the Goal (3 bullet points each), Tasks, and Extra Resources sections completed.
 
+
 Immersive and abstract visuals for a song. 
 
 Week 1 
   Goal: Learn how to incorporate BPM into code. 
-  Tasks:
-  Resources:
+  Tasks: 
+  - Learn time variables in C#.
+  - Test this by outputting a simple console message each incr.
+  - Learn how to calculate BPM into a unit of time that can be used to create time based functions in C#.
+  Resources: https://stackoverflow.com/questions/6634941/time-based-method-execution-in-c-sharp, https://tuneform.com/tools/time-tempo-bpm-to-milliseconds-ms 
   
-Week 2: Apply this to an object, changing perhaps a simple setting to each beat. 
-  Goal:
-  Tasks:
-  Resources:
+Week 2: 
+  Goal: Learn to apply this to an object, perhaps by toggling a simple setting to each beat. 
+  Tasks: 
+  - Learn time based functions, which trigger every specified ms.
+  - Learn how to use these time based functions to toggle a property on or off, or between two static arbituary values.
+  - Try changing the color of a sphere from red to blue on bpm.
+  - Test on different increments of time, such as every eighth note. 
+  Resources: https://stackoverflow.com/questions/6634941/time-based-method-execution-in-c-sharp, https://tuneform.com/tools/time-tempo-bpm-to-milliseconds-ms, https://www.youtube.com/watch?v=T5XHwzI0nGE&ab_channel=VegetarianZombie 
   
 Week 3: 
-  Goal:
-  Tasks:
-  Resources:
+  Goal: Apply this to a more complicated property, such as changing the positioning of just a single vector, or size of a face of an object.
+  Tasks: 
+  - Learn how to use on a more complicated properties, such as transitioning between a sphere's size.
+  - Try transitioning a spheres size from small to big and big to small
+  - Test on different increments of time. 
+  Resources: https://www.youtube.com/watch?v=T5XHwzI0nGE&ab_channel=VegetarianZombie, 
   
-Week 4:
-  Goal:
-  Tasks:
-  Resources:
+Week 4: 
+  Goal: Apply this to a larger more complex object, also making the transitions more complex, possibly like using ease. 
+  Tasks: 
+  - Learn how to apply this on a larger more complicated object, such a model
+  - Learn syncing multiple smaller objects at once.
+  - Learn how to make the transitions smoother if necessary through formulas. 
+  Resources: https://stackoverflow.com/questions/13462001/ease-in-and-ease-out-animation-formula, 
   
-Week 5:
-  Goal:
-  Tasks:
-  Resources:
+Week 5: 
+  Goal: Build a still scene. 
+  Tasks: 
+  - Look for free assets
+  - or practice making my own, probably much simpler models
+  - Take inspiration from still peices of art, maybe renaissance
+  - Learn lighting properties in C#.
+  - Get more familiar with 3D properties
+  - Construct a scene with 3D objects reflecting my musical persona and theme.
+  - I could go on about this but for some simple theme words: Heavenly, Purgatory, Sky 
+  Resources: https://www.youtube.com/watch?v=LWi4zQnn1Xg&ab_channel=CircuitStream, https://assetstore.unity.com/top-assets/top-free?srsltid=AfmBOorpORop9_AovHqr371sBogirrDkciJ42irNzOTAi31emie7jR3X
   
-Week 6:
-  Goal:
-  Tasks:
-  Resources:
+Week 6:  
+  Goal: Apply animations to objects of the scene, rendering it. 
+  Tasks: 
+  - Assemble everything together, using the code to animate objects in the scene.
+  - Sync up audio in a video editor
+  Resources: https://stackoverflow.com/questions/6634941/time-based-method-execution-in-c-sharp, https://tuneform.com/tools/time-tempo-bpm-to-milliseconds-ms, https://www.youtube.com/watch?v=T5XHwzI0nGE&ab_channel=VegetarianZombie, https://www.youtube.com/watch?v=8pYq15Lh0x4&ab_channel=DaniKrossing 
   
